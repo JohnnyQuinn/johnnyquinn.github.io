@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JohnnyQuinn/johnnyquinn.github.io/issues"
   },
-  "homepage": "https://github.com/JohnnyQuinn/johnnyquinn.github.io#readme"
+  "homepage": "https://github.com/JohnnyQuinn/johnnyquinn.github.io#readme",
+  "dependencies": {
+    "docsify-cli": "^4.4.4"
+  }
 }
